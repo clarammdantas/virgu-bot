@@ -1,0 +1,27 @@
+{
+  "name": "virgu-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test virgu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarammdantas/virgu-bot.git"
+  },
+  "keywords": [
+    "Bot",
+    "Facebook"
+  ],
+  "author": "Clara Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarammdantas/virgu-bot/issues"
+  },
+  "homepage": "https://github.com/clarammdantas/virgu-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
